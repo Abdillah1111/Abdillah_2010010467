@@ -1,0 +1,22 @@
+/* File: style.css */
+.banner {
+    height: 90vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/bg.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.banner-content {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.hari-siaran-container {
+    background-color: white;
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+}
